@@ -21,3 +21,4 @@ for (let i = 0; i < stringAngka.length; i++) {
 
 // let gacha = Math.ceil(Math.random() * 5)
 // console.log(gacha);
+
